@@ -24,6 +24,10 @@ div {
     align-items: center;
 }
 
+#header_resumo {
+    margin-top: 5%;
+}
+
 .cabecalho {
     align-items: center;
     /* display: flex; */
@@ -81,6 +85,6 @@ p {
     text-align: justify;
     margin-left: 5%;
     margin-right: 5%;
-    margin-top: 5%;
+    /*margin-top: 5%;*/
     /*padding: 5%;*/
 }
