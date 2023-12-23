@@ -88,3 +88,14 @@ p {
     /*margin-top: 5%;*/
     /*padding: 5%;*/
 }
+
+a {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
